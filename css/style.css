@@ -10,7 +10,9 @@ body{
 #main {
 	text-align: center;
 	margin-bottom: 0;
-	font-size: 175%
+	font-size: 175%;
+	margin-top: 20px;
+	padding: 10px;
 }
 
 .block {
